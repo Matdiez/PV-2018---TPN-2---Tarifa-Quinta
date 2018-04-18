@@ -12,7 +12,7 @@ public class TP2 {
     public static void main(String[] args) {
         menú();
     }
-    public static void menú() {
+    public static void menú() { //para completar el trabajo, los métodos deberían estar comentados
         int opcion;
         Scanner ingreso = new Scanner(System.in);
         System.out.println("Seleccione opcion");
